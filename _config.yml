@@ -12,9 +12,9 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-pic:  # your photo
+author-name: 'Cari Gostic' # your name
+about-author: 'I like data!' # about author
 email: cari.gostic@gmail.com # your email
 phone:  # your pnone number
 website: https://cgostic.github.io/cgostic_bef_theme/ # you website
@@ -28,7 +28,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: cgostic # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+discus_identifier: cgostic # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: #https://disqus.com/admin/create/
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
