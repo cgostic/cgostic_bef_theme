@@ -7,3 +7,4 @@ description:  # Add post description (optional)
 tag: #
 ---
 My first blog post can go here!
+I have visited 10 countries till date. Hope to explore more.
