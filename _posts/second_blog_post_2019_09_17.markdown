@@ -7,3 +7,5 @@ description: # Add post description (optional)
 tag: #
 ---
 My second blog post can go here!
+
+September 17th, 2019
