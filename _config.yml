@@ -7,7 +7,7 @@ baseurl: "/cgostic_bef_theme" # the subpath of your site, e.g. /blog
 url: "https://cgostic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: birch_leaves.jpg # add banner video. Add your video file to the folder video
+video: birch_leaves.JPG # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
