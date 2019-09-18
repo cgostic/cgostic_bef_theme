@@ -12,7 +12,7 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic:  # your photo
+author-pic:  author.jpg # your photo
 author-name: 'Cari Gostic' # your name
 about-author: 'I like data science very much!' # about author
 email: cari.gostic@gmail.com # your email
